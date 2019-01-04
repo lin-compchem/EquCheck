@@ -1,0 +1,49 @@
+
+
+NEW RUN 
+Sample Size = 24
+Segment Length (divided by Time Interval) = 2 data points
+The Start Time Interval = 29 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+The Mann-Kendall Test for Segment Means has failed. Refer to the User Guide for more information. 
+The Mann-Kendall Statistic for Averages is 5.15931582544725
+5.15931582544725 > 1.959964, so the test fails.
+
+The Mann-Kendall Test for Segment Variances has failed. Refer to the User Guide for more information.  
+The Mann-Kendall Statistic for Variance is 2.13317865859838
+2.13317865859838 > 1.959964, so the test fails.
+
+The Shapiro-Wilk Test did not occur, as a previous test may have failed.
+
+The Von-Neumann Test did not occur, as a previous test may have failed.
+
+
+
+SUMMARY OF FINAL RESULTS
+USER INPUT
+Sample Size = 24
+Time Interval = 1 time units
+Segment Length = 2 time units
+Alpha Level = 0.05
+The User Estimated Start Time = 0 time units
+
+Error. It seems equilibration may not have occurred. RELEVANT DATA BELOW.
+
+The alpha level you chose is 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+The Mann-Kendall Test for Segment Means has failed. Refer to the User Guide for more information. 
+The Mann-Kendall Statistic for Averages is 1.98078422887447
+1.98078422887447 > 1.959964, so the test fails.
+
+The Mann-Kendall Test for Segment Variances has failed. Refer to the User Guide for more information.  
+The Mann-Kendall Statistic for Variance is 2.08642605441444
+2.08642605441444 > 1.959964, so the test fails.
+
+The Shapiro-Wilk Test did not occur, as a previous test may have failed.
+
+The Von-Neumann Test did not occur, as a previous test may have failed.
