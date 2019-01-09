@@ -1,0 +1,211 @@
+
+
+NEW RUN 
+Sample Size = 24
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 153 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 25
+Segment Length (divided by Time Interval) = 21 data points
+The Start Time Interval = 119 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 26
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 133 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 27
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 108 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 28
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 152 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 29
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 133 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 30
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 133 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 31
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 133 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 32
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 113 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 33
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 133 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 34
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 131 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 35
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 112 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 36
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 151 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 37
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 133 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 38
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 211 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 39
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 193 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 40
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 173 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+
+NEW RUN 
+Sample Size = 41
+Segment Length (divided by Time Interval) = 20 data points
+The Start Time Interval = 163 time intervals
+Alpha Level = 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+The Mann-Kendall Test for Segment Means has failed. Refer to the User Guide for more information. 
+The Mann-Kendall Statistic for Averages is 2.83044840676303
+2.83044840676303 > 1.959964, so the test fails.
+
+The Shapiro-Wilk Test did not occur, as a previous test may have failed.
+
+The Von-Neumann Test did not occur, as a previous test may have failed.
+
+
+
+SUMMARY OF FINAL RESULTS
+USER INPUT
+Original Sample Size = 24
+Time Interval = 10 time units
+Segment Length = 200 time units
+Alpha Level = 0.05
+The User Estimated Start Time = 0 time units
+
+
+Your data is equilibrated! RELEVANT STATISTICAL INFORMATION BELOW 
+
+The start time is 174 (line number) or 1740 (actual time step)
+The sample average is 1.355846375 with an error of 0.0327180868778777 
+The sample variance is 0.00695620482690706
+The total number of segments is 40
+The length of each segment is 20 data points
+
+THE TEST STATISTICS BELOW 
+
+The alpha level you chose is 0.05
+The Z Score used is 1.959964
+The T Score used is 2.069
+
+Mann-Kendall Test for Averages
+The Mann-Kendall Statistic for Averages is 1.86416552971348
+1.86416552971348 < 1.959964, so the test passes.
+
+Mann-Kendall Test for Variance
+The Mann-Kendall Statistic for Variance is 0.745666211885391
+0.745666211885391 < 1.959964, so the test passes.
+
+Shapiro-Wilk Test for Normality
+The Test Statistic for Shapiro Wilk is 0.112206548092177
+0.112206548092177 < 0.916, so the test passes.
+
+The Von Neumann Test for Trend in Segment Averages
+The Von Neumann Test Statistic is -0.903976638732919
+-0.903976638732919 > -1.959964, so the test passes.
