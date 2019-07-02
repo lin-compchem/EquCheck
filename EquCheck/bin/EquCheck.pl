@@ -38,7 +38,7 @@ use Scalar::Util 'looks_like_number';
 ######  Welcome information  ######
 my @ucdenver = 'Foo';
 print "Welcome to EquCheck 1.0.0. \n";
-print "This program examine if a time series recorded in MD simulation reaches equilibrium. \n";
+print "This program examines if a time series recorded in MD simulation reaches equilibrium. \n";
 print "Written by Shamik Bhat, Sahitya Talachutla, Hai Lin. \n";
 print "Last code change at 12/19/2018.\n"; 
 print 'Please send any comments to Prof. Hai Lin (hai.lin@ucdenver.edu).', "\n";
@@ -2873,6 +2873,6 @@ if ($lvlr eq "1" or $lvlr eq $inter or $lvlr eq $adv){
 	}
 }
 }
-#This subroutine ooverall takes each parts of the test, and conducts it automatically given the data that was called earlier.
+#This subroutine overall takes each parts of the test, and conducts it automatically given the data that was called earlier.
 #OVERALL(), takes tests a,b,c, and d and increases the number of segments accordingly to determine whether or not the data is complete.
 OVERALL();
